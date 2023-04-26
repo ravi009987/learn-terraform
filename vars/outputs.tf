@@ -9,3 +9,7 @@ output "sample_list_2" {
 output "sample-dic2" {
   value = var.sample_dic["boolean"]
 }
+
+output "env" {
+  value = var.env
+}
