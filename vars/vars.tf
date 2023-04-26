@@ -25,3 +25,5 @@ variable "sample_dic" {
     boolean=false
   }
 }
+
+variable "env" {}
