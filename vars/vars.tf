@@ -27,3 +27,4 @@ variable "sample_dic" {
 }
 
 variable "env" {}
+variable "auto_num1" {}
